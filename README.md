@@ -45,10 +45,10 @@ Here are some of the projects I'm most proud of:
 
    Github Repository : https://github.com/ktshoeu89-wq/Portfolio
 
-- **Personal project - Portfolio Site**  
+- **Personal project - Concept Website for Molimo Nthuse Guest House**  
   A modern, mobile-first business website designed to showcase a local guest house in a clean and professional way.Built with HTML, CSS, vanilla JavaScript, Express.js, and Sqlite3
 
-  [→ Live Demo] | [→ Repository]
+  Github Repository : https://github.com/ktshoeu89-wq/Molimo-Nthuse
 ---
 
 ### 📫 Let's Connect
