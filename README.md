@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there! 👋 I'm Kamohelo Tshoeu</h1>
+</div>
 
-<!--
-**ktshoeu89-wq/ktshoeu89-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p>
+    <strong>Junior Web Developer</strong> passionate about building clean, responsive, and user-friendly websites.<br>
+    Currently open to <strong>full-time opportunities</strong> and <strong>freelance projects</strong>.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Working On / Learning
+
+- Deepening my JavaScript skills (modern ES6+, DOM manipulation, async programming)
+- Exploring front-end frameworks (React basics & Tailwind CSS)
+- Building responsive, accessible real-world projects
+- Improving UI/UX thinking and clean code practices
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-Yes-4CAF50?style=for-the-badge" alt="Responsive Design" />
+</div>
+
+<div align="center">
+  <br>
+  <em>Actively expanding into:</em> React · Tailwind CSS · Git & GitHub workflows · Basic accessibility (a11y)
+</div>
+
+---
+
+### 🚀 Recent Projects
+
+Here are some of the projects I'm most proud of:
+
+-  **Personal project - Portfolio Site** 
+  Personal portfolio built with HTML, CSS, and vanilla JavaScript. Fully responsive with smooth animations.
+
+   [→ Live Demo] | [→ Repository]
+
+- **Personal project - Portfolio Site**  
+  A modern, mobile-first business website designed to showcase a local guest house in a clean and professional way.Built with HTML, CSS, vanilla JavaScript, Express.js, and Sqlite3
+
+  [→ Live Demo] | [→ Repository]
+---
+
+### 📫 Let's Connect
+
+I'm always open to interesting opportunities, collaborations, or just chatting about web development.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamo-tshoeu1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ktshoeu89-wq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <em>Looking forward to creating something great together! 🚀</em>
+</p>
