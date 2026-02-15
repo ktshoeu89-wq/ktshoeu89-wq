@@ -40,11 +40,6 @@
 
 Here are some of the projects I'm most proud of:
 
--  **Personal project - Portfolio Site** 
-  Personal portfolio built with HTML, CSS, and vanilla JavaScript. Fully responsive with smooth animations.
-
-   Github Repository : https://github.com/ktshoeu89-wq/Portfolio
-
 - **Personal project - Concept Website for Molimo Nthuse Guest House**  
   A modern, mobile-first business website designed to showcase a local guest house in a clean and professional way.Built with HTML, CSS, vanilla JavaScript, Express.js, and Sqlite3
 
