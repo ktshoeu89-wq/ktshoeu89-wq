@@ -43,6 +43,8 @@ Here are some of the projects I'm most proud of:
 - **Official project – Kings High School Website**
   A fully responsive school website designed and developed as my first real-world web project. Built to showcase school information, academic programs, announcements, contact details,     and a clean modern layout suitable for students, parents, and staff.
 
+  Live Link: [https://www.kingsficksburg.co.za/]
+
   Github Repository : [https://github.com/ktshoeu89-wq/Kings-High-School]
   
   ---
