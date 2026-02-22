@@ -40,10 +40,25 @@
 
 Here are some of the projects I'm most proud of:
 
+- **Official project – Kings High School Website**
+  A fully responsive school website designed and developed as my first real-world web project. Built to showcase school information, academic programs, announcements, contact details,     and a clean modern layout suitable for students, parents, and staff.
+
+  Github Repository : [https://github.com/ktshoeu89-wq/Kings-High-School]
+  
+  ---
+
 - **Personal project - Concept Website for Molimo Nthuse Guest House**  
   A modern, mobile-first business website designed to showcase a local guest house in a clean and professional way.Built with HTML, CSS, vanilla JavaScript, Express.js, and Sqlite3
 
-  Github Repository : https://github.com/ktshoeu89-wq/Molimo-Nthuse
+  Github Repository : [https://github.com/ktshoeu89-wq/Molimo-Nthuse]
+  
+  ---
+
+- **Personal project – Developer Portfolio Website**  
+  A responsive portfolio website built to present my work, technical skills, and project experience. Includes smooth scrolling navigation, animated sections, interactive project previews, and a working contact form powered by Web3Forms. Built with HTML, CSS, and vanilla JavaScript.
+
+  Github Repository : [https://github.com/ktshoeu89-wq/Portfolio]
+  
 ---
 
 ### 📫 Let's Connect
